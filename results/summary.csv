@@ -1,0 +1,7 @@
+policy,Peak mean,Peak std,Mobility mean,Mobility std,Days Over Cap mean,Days Over Cap std,Efficiency mean,Efficiency std
+Always_Open,2499.8,0.894,8.0,0.0,130.95,16.433,0.029,0.006
+Manual_Reactive,2475.2,66.215,4.786,0.392,130.65,16.417,0.019,0.007
+Always_Lockdown,2310.95,151.129,3.2,0.0,99.75,12.594,0.021,0.004
+Dynamic_PI,1927.0,288.504,3.351,0.51,122.75,17.363,0.022,0.013
+PID,1923.6,281.148,3.35,0.547,121.7,17.856,0.022,0.013
+DQN_PI,2221.05,403.671,3.695,0.378,122.7,17.232,0.021,0.013
